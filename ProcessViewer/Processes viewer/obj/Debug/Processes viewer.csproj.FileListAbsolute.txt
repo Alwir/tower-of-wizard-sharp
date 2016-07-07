@@ -12,3 +12,11 @@ C:\My\Projects\ucheba\c#\ProcessesViewer\Processes viewer\obj\Debug\Processes vi
 C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\bin\Debug\Processes viewer.exe.config
 C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes viewer.exe
 C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes viewer.pdb
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\bin\Debug\Processes viewer.exe
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\bin\Debug\Processes viewer.pdb
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes viewer.csprojResolveAssemblyReference.cache
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes_viewer.Main.resources
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes_viewer.Properties.Resources.resources
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes_viewer.Schedule.resources
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes_viewer.SetProcess.resources
+C:\My\Projects\tower-of-wizard#\ProcessViewer\Processes viewer\obj\Debug\Processes viewer.csproj.GenerateResource.Cache
