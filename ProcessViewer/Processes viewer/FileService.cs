@@ -14,7 +14,7 @@ namespace Processes_viewer {
     }
 
     class FileService {
-        static string SCHEDULEFILENAME = "sav.sav";
+        const string SCHEDULEFILENAME = "sav.sav";
 
         internal void Save(object obj) {
             ProcessRunInfo processRunInfo = (ProcessRunInfo)obj;
@@ -24,7 +24,9 @@ namespace Processes_viewer {
                         WriteProcessRunInfo(processRunInfo, sw);
                     }
                     break;
-                } catch { }
+                } catch {
+                    //do nothing
+                }
             }
         }
 
@@ -37,7 +39,9 @@ namespace Processes_viewer {
                         }
                     }
                     break;
-                } catch { }
+                } catch {
+                    //do nothing
+                }
             }
         }
 
@@ -56,7 +60,9 @@ namespace Processes_viewer {
                         }
                     }
                     break;
-                } catch { }
+                } catch {
+                    //do nothing
+                }
             }
             return allSchedule;
         }

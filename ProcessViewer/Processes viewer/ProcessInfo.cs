@@ -12,7 +12,7 @@ namespace Processes_viewer {
             try {
                 return process.StartTime.ToString();
             } catch {
-                return "";
+                return String.Empty;
             }
         }
 
@@ -20,7 +20,7 @@ namespace Processes_viewer {
             try {
                 return process.MainModule.ToString();
             } catch {
-                return "";
+                return String.Empty;
             }
         }
 
@@ -28,7 +28,7 @@ namespace Processes_viewer {
             try {
                 return process.PriorityClass.ToString();
             } catch {
-                return "";
+                return String.Empty;
             }
         }
 
@@ -36,7 +36,7 @@ namespace Processes_viewer {
             try {
                 return process.TotalProcessorTime.ToString();
             } catch {
-                return "";
+                return String.Empty;
             }
         }
 
